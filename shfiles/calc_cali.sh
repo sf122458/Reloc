@@ -1,0 +1,1 @@
+rostopic pub -1 /calc_cali std_msgs/Empty "{}"

@@ -1,0 +1,1 @@
+rostopic pub -1 reloc std_msgs/String $1
